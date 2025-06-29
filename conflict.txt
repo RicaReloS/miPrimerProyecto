@@ -1,3 +1,4 @@
 linea original
+cambios desde la rama developer
 
-cambios realizados desde main que ntraran en conflicto con los realizados en la rama developer
+cambios realizados desde main que entraran en conflicto con los realizados en la rama developer
