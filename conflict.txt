@@ -1,1 +1,3 @@
-nea original
+linea original
+
+cambios realizados desde main que ntraran en conflicto con los realizados en la rama developer
